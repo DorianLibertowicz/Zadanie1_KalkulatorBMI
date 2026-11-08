@@ -1,0 +1,16 @@
+[
+    {
+        "name": "test",
+        "height": 250.0,
+        "weight": 300.0,
+        "bmi": 48.0,
+        "category": "otylosc"
+    },
+    {
+        "name": "200",
+        "height": 250.0,
+        "weight": 250.0,
+        "bmi": 40.0,
+        "category": "otylosc"
+    }
+]
